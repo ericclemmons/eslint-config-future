@@ -7,6 +7,11 @@
 [![](https://img.shields.io/david/ericclemmons/eslint-config-future.svg?style=flat-square)](https://david-dm.org/ericclemmons/eslint-config-future#info=dependencies)
 
 
+## Examples
+
+All tests are ran against the [`examples/`][examples] directory.
+
+
 ## Install
 
 ```shell
@@ -42,6 +47,7 @@ If you have questions or issues, please [open an issue][issue]!
 
 
 [docs]: http://eslint.org/docs/developer-guide/shareable-configs
+[examples]: https://github.com/ericclemmons/eslint-config-future/tree/master/examples
 [issue]: https://github.com/ericclemmons/eslint-config-future/issues/new
 [license]: https://github.com/ericclemmons/eslint-config-future/blob/master/LICENSE
 [twitter]: https://twitter.com/ericclemmons/
