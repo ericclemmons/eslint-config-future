@@ -1,0 +1,39 @@
+{
+  "name": "eslint-config-future",
+  "version": "1.0.0",
+  "description": "ESLint Shareable Config for Clean ES5/ES6/ES7 Javascript",
+  "main": "eslintrc.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericclemmons/eslint-config-future.git"
+  },
+  "keywords": [
+    "es5",
+    "es6",
+    "es7",
+    "eslint",
+    "eslintconfig",
+    "code",
+    "style",
+    "lint"
+  ],
+  "author": "Eric Clemmons <eric@smarterspam.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ericclemmons/eslint-config-future/issues"
+  },
+  "homepage": "https://github.com/ericclemmons/eslint-config-future#readme",
+  "devDependencies": {
+    "eslint": "^0.21.2",
+    "eslint-config-future": "file:.",
+    "mocha": "^2.2.5"
+  },
+  "peerDependencies": {
+    "babel-eslint": "3.x",
+    "eslint-plugin-react": "2.x",
+    "eslint": "0.x"
+  }
+}
