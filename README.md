@@ -29,6 +29,16 @@ Add to your `.eslintrc` file:
 }
 ```
 
+If you use [React][react], there's a special version that leverages
+[eslint-react-plugin][eslint-react]:
+
+
+```json
+{
+  "extends": "future/react"
+}
+```
+
 
 ## Authors
 
@@ -47,7 +57,9 @@ If you have questions or issues, please [open an issue][issue]!
 
 
 [docs]: http://eslint.org/docs/developer-guide/shareable-configs
+[eslint-react]: https://github.com/yannickcr/eslint-plugin-react
 [examples]: https://github.com/ericclemmons/eslint-config-future/tree/master/examples
 [issue]: https://github.com/ericclemmons/eslint-config-future/issues/new
 [license]: https://github.com/ericclemmons/eslint-config-future/blob/master/LICENSE
+[react]: http://facebook.github.io/react/
 [twitter]: https://twitter.com/ericclemmons/
