@@ -2,9 +2,9 @@
   "name": "eslint-config-future",
   "version": "1.0.1",
   "description": "ESLint Shareable Config for Clean ES5/ES6/ES7 Javascript",
-  "main": "eslintrc.js",
+  "main": "index.js",
   "scripts": {
-    "postinstall": "mkdir -p node_modules/eslint-config-future && cp ./{eslintrc.js,package.json} node_modules/eslint-config-future",
+    "postinstall": "mkdir -p node_modules/eslint-config-future && cp index.js node_modules/eslint-config-future",
     "test": "mocha"
   },
   "repository": {
