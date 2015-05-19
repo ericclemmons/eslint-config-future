@@ -10,7 +10,7 @@
 ## Install
 
 ```shell
-$ npm install eslint-config-future
+$ npm install babel-eslint eslint-config-future eslint-plugin-react
 ```
 
 
