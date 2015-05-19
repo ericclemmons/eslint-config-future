@@ -4,6 +4,7 @@
   "description": "ESLint Shareable Config for Clean ES5/ES6/ES7 Javascript",
   "main": "eslintrc.js",
   "scripts": {
+    "postinstall": "mkdir -p node_modules/eslint-config-future && cp ./{eslintrc.js,package.json} node_modules/eslint-config-future",
     "test": "mocha"
   },
   "repository": {
@@ -28,7 +29,6 @@
   "homepage": "https://github.com/ericclemmons/eslint-config-future#readme",
   "devDependencies": {
     "eslint": "^0.21.2",
-    "eslint-config-future": "file:.",
     "mocha": "^2.2.5"
   },
   "peerDependencies": {
