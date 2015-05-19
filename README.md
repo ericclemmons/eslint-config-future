@@ -1,4 +1,4 @@
-# Eric Clemmons' [ESLint Shareable Config][docs] ![https://img.shields.io/npm/v/eslint-config-future.svg](https://img.shields.io/npm/v/eslint-config-future.svg?style=flat-square)
+# Future-Friendly [ESLint Shareable Config][docs] ![https://img.shields.io/npm/v/eslint-config-future.svg](https://img.shields.io/npm/v/eslint-config-future.svg?style=flat-square)
 
 > [ESLint Shareable Config][docs] for Clean ES5/ES6/ES7 Javascript
 
