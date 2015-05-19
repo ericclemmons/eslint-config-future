@@ -27,7 +27,9 @@
   },
   "homepage": "https://github.com/ericclemmons/eslint-config-future#readme",
   "devDependencies": {
+    "babel-eslint": "^3.1.5",
     "eslint": "^0.21.2",
+    "eslint-plugin-react": "^2.3.0",
     "mocha": "^2.2.5"
   },
   "peerDependencies": {
