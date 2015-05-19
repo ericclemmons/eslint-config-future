@@ -20,7 +20,7 @@ Add to your `.eslintrc` file:
 
 ```json
 {
-  "extends": "ericclemmons"
+  "extends": "future"
 }
 ```
 
