@@ -37,5 +37,8 @@
     "babel-eslint": "3.x",
     "eslint-plugin-react": "2.x",
     "eslint": "0.x"
+  },
+  "dependencies": {
+    "object-assign": "^2.0.0"
   }
 }
