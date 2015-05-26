@@ -7,6 +7,16 @@
 [![](https://img.shields.io/david/ericclemmons/eslint-config-future.svg?style=flat-square)](https://david-dm.org/ericclemmons/eslint-config-future#info=dependencies)
 
 
+## Philosophy
+
+Most of these settings were based on best-practices widely followed within the
+Javavascript community, as well as some Symfony2 PHP conventions that greatly
+enhance readability.
+
+**If you disagree with some of the style choices, please [open an issue][issue].**
+I'd love to learn & discuss better ways of styling & structuring code :)
+
+
 ## Examples
 
 All tests are ran against the [`examples/`][examples] directory.
