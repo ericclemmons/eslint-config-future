@@ -173,7 +173,7 @@ module.exports = {
     "space-after-function-name": [2, "never"],
     "space-after-keywords": [2, "always"],
     "space-before-blocks": [1, "always"],
-    "space-before-function-parens": [1, "never"],
+    "space-before-function-paren": [1, "never"],
     "space-in-brackets": [1, "never"],
     "space-in-parens": [1, "never"],
     "space-infix-ops": 2,
