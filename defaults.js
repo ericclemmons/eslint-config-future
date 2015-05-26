@@ -133,7 +133,7 @@ module.exports = {
     "no-wrap-func": 2,
 
     "block-scoped-var": 0,
-    "brace-style": [0, "1tbs"],
+    "brace-style": [1, "1tbs"],
     "camelcase": 2,
     "comma-dangle": [1, "always-multiline"],
     "comma-spacing": 2,
