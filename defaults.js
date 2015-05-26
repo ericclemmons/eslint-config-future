@@ -151,7 +151,7 @@ module.exports = {
     "generator-star": 0,
     "global-strict": [0, "never"],
     "guard-for-in": 0,
-    "handle-callback-err": 0,
+    "handle-callback-err": 2,
     "indent": [2, 2],
     "key-spacing": [2, { "beforeColon": false, "afterColon": true }],
     "max-depth": [0, 4],
