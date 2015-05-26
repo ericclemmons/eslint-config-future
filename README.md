@@ -10,7 +10,7 @@
 ## Philosophy
 
 Most of these settings were based on best-practices widely followed within the
-Javavascript community, as well as some Symfony2 PHP conventions that greatly
+Javascript community, as well as some Symfony2 PHP conventions that greatly
 enhance readability.
 
 **If you disagree with some of the style choices, please [open an issue][issue].**
