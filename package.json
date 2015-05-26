@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-future",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "ESLint Shareable Config for Clean ES5/ES6/ES7 Javascript",
   "main": "index.js",
   "scripts": {
